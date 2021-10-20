@@ -1,8 +1,8 @@
 {
 	"name": "Python file",
 	"dockerFile": "Dockerfile",
-	"appPort": [9000, 8888],
-	"context": ".",
+	"appPort": [9000, 8888, 4040],
+	"context": "..",
 	"extensions": [
 		"ms-python.python",
 		"ms-python.anaconda-extension-pack",
